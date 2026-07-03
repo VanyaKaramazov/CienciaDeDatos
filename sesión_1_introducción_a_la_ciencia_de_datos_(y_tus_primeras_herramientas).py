@@ -373,7 +373,9 @@ Si pudieras pedirle al área de sistemas una tabla con la información históric
 
 **Tu respuesta aquí:**
 
-*
+*Enfermedades
+*Numero de citas anteriores
+*Ocupación
 
 ---
 
@@ -383,7 +385,7 @@ En la vida real, los datos nunca vienen perfectos. ¿Qué tipo de errores, datos
 
 **Tu respuesta aquí:**
 
-*
+*Errores de formato, duplicados, nulos, valores inconsistentes*
 
 ---
 
@@ -393,6 +395,7 @@ Imagina que logramos construir un modelo matemático en Python sumamente exitoso
 
 **Tu respuesta aquí:**
 
-*
-
+*Recordatorios personalizados
+*Horarios flexibles 
+*Informar sobre la importancia de asistir a las citas*
 """
